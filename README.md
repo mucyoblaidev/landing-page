@@ -1,3 +1,3 @@
 # landing-page
 
-creating a project that helps me to learn more abiut flexbox (flex grow,shrink and flex basis)
+This project will help me to learn more about flexbox (flex grow,shrink and flex basis) and also get familier with CSS and HTML.
