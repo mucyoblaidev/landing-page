@@ -91,5 +91,13 @@
     <div class="footer">
         <p>Copyright &#169 the odin project 2021</p>
     </div>
+    <script>
+        let button = document.querySelector ('button');
+        function details (){
+            let name = prompt ("what is your name?");
+            alert (`Hello ${ name } ,let\'s get started!!`);
+        }
+        button.addEventListener('click',details);
+    </script>
 </body>
 </html>
